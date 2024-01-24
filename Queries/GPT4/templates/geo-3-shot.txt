@@ -1,0 +1,7 @@
+The geo-coordinates of {city_a} are.
+
+The geo-coordinates of {city_b} are.
+
+The geo-coordinates of {city_c} are.
+
+The geo-coordinates of {city} are

@@ -4,8 +4,12 @@ from openai import OpenAI
 import geopy.distance
 from geoc.geocoding import GeoCoding
 import pandas as pd
+import re
 
 load_dotenv()
+
+def clean_string(s):
+    return re.sub(r'[^0-9.]', '', s)
 
 def query(message):
     '''this is a simple function for querying chat-gpt'''
@@ -22,7 +26,35 @@ def query(message):
         ],
         model="gpt-4")
 
-    return chat_completion
+    return chat_completion.choices[0].message.content
+
+def zero_shot(df):
+    '''This code is to test 0-shot training for the gpt-4 model'''
+    df_new = df.copy()
+    df_new['Predicted Latitude'] = None
+    df_new['Predicted Longitude'] = None
+
+    for _, row in df_new.iterrows():
+        city = row['AccentCity']
+        country_initials = row['Country']
+        message = f"The geo-coordinates of {city}, {country_initials} are"
+        response = query(message)
+        print(response)
+
+        # error catching
+        if len(response) > 30:
+            continue
+
+        predicted_lat, predicted_lng = response.split(',')
+
+        predicted_lat = clean_string(predicted_lat)
+        predicted_lng = clean_string(predicted_lng)
+
+        row['Predited Latitude'] = predicted_lat
+        row['Predicted Longitude'] = predicted_lng
+    
+    return df_new
+
 
 def createCitiesList():
     '''This code is directly sourced from https://github.com/prabin525/spatial-llm/blob/main/spatial-awareness/create_cities_list.py'''
@@ -64,5 +96,5 @@ def createCitiesList():
         each['far_city'] = far_city
 
     df = pd.DataFrame(places)
-    df.to_json('cities.json')
+    df.to_json('us_cities.json')
 
