@@ -1,0 +1,161 @@
+,City1,City1_state,City1_lat,City1_long,City2,City2_state,City2_lat,City2_long,City3,City3_state,City3_lat,City3_long,Valid_distance_difference,Answer,State
+0,Coulee City,WA,47.6122,-119.2895,Valley Grove,WV,40.0901,-80.569,Vancouver,WA,45.6366,-122.5967,TRUE,Vancouver, WA
+1,Ballville,OH,41.3269,-83.1367,Belfry,MT,45.1375,-108.9985,Luxemburg,WI,44.5449,-87.7065,TRUE,Luxemburg, WI
+2,Roodhouse,IL,39.484,-90.3741,Anzac Village,NM,35.0613,-107.7456,Mason,MI,42.5806,-84.4427,TRUE,Mason, MI
+3,Deer Lick,OK,36.4595,-94.7468,Meridian,CO,39.5389,-104.8476,Jefferson,TX,32.7634,-94.3512,TRUE,Jefferson, TX
+4,South Beloit,IL,42.4822,-89.0248,Oxbow,ND,46.6687,-96.8101,McGrath,AK,62.9424,-155.563,TRUE,McGrath, AK
+5,Mohrsville,PA,40.4781,-75.9852,Vernon,UT,40.0956,-112.4457,Hewlett Neck,NY,40.6247,-73.6981,TRUE,Hewlett Neck, NY
+6,Elm City,NC,35.8087,-77.8622,Palm Coast,FL,29.5392,-81.246,Ulysses,KS,37.5774,-101.3549,TRUE,Palm Coast, FL
+7,Cinco Ranch,TX,29.7395,-95.7607,Lafayette,OR,45.2463,-123.1116,St. Elizabeth,MO,38.256,-92.2665,TRUE,Lafayette, OR
+8,Farrell,PA,41.2112,-80.497,Butler,IN,41.4274,-84.8721,Gate,OK,36.8517,-100.0553,TRUE,Butler, IN
+9,North Webster,IN,41.324,-85.6979,Southmont,NC,35.6536,-80.2702,Bithlo,FL,28.5644,-81.1074,TRUE,Southmont, NC
+10,Tilton,IL,40.0941,-87.6398,Corfu,NY,42.9611,-78.4026,Olympia Fields,IL,41.517,-87.6924,TRUE,Olympia Fields, IL
+11,Texas City,TX,29.4128,-94.9658,Turtle Lake,WI,45.3933,-92.1452,Woodside,CA,37.4222,-122.2591,TRUE,Woodside, CA
+12,Pin Oak Acres,OK,36.1226,-95.2889,Perryville,MO,37.7263,-89.8759,Hamlet,NC,34.8891,-79.7099,TRUE,Perryville, MO
+13,Montpelier,ID,42.326,-111.2988,Wilberforce,OH,39.7151,-83.8848,Westby,MT,48.871,-104.0551,TRUE,Wilberforce, OH
+14,Rapid City,MI,44.8366,-85.2871,Gillette,WY,44.2752,-105.4983,Chester,CA,40.3017,-121.2339,TRUE,Gillette, WY
+15,Goshen,OH,39.2325,-84.1532,West Alexandria,OH,39.7451,-84.5362,Eldridge,CA,38.3339,-122.5065,TRUE,West Alexandria, OH
+16,Highland Park,IL,42.1823,-87.8105,Fox Lake,WI,43.5618,-88.913,Vega,TX,35.2456,-102.4262,TRUE,Fox Lake, WI
+17,Norwood,GA,33.4626,-82.7055,San Pablo,NM,32.2506,-106.7626,Lake Mills,WI,43.0776,-88.9054,TRUE,Lake Mills, WI
+18,Bloomfield,NM,36.7401,-107.9734,Warsaw,NC,34.9987,-78.0926,Guthrie,KY,36.6502,-87.1741,TRUE,Guthrie, KY
+19,Claremore,OK,36.3143,-95.6099,Bantam,CT,41.7247,-73.2422,Coaldale,CO,38.3563,-105.8155,TRUE,Bantam, CT
+20,Somerset,NJ,40.5083,-74.501,Chariton,IA,41.0176,-93.3095,Seneca,SD,45.0608,-99.5092,TRUE,Chariton, IA
+21,West Point,GA,32.8937,-85.1453,Mullens,WV,37.5812,-81.3855,White Plains,AL,33.7603,-85.688,TRUE,Mullens, WV
+22,Palm Valley,FL,30.2011,-81.3949,Byrnedale,PA,41.2916,-78.5023,Marmarth,ND,46.296,-103.9331,TRUE,Byrnedale, PA
+23,Angier,NC,35.512,-78.7405,Fairfield,IA,41.0061,-91.9669,Elizabeth City,NC,36.2943,-76.2361,TRUE,Elizabeth City, NC
+24,Dyer,IN,41.4976,-87.509,Reynolds,IL,41.3319,-90.6723,West Modesto,CA,37.618,-121.0343,TRUE,West Modesto, CA
+25,Reddick,FL,29.3687,-82.1976,Forest Grove,OR,45.5244,-123.1101,Reidland,KY,37.0085,-88.5261,TRUE,Forest Grove, OR
+26,Bartolo,PR,18.362,-65.8414,Third Lake,IL,42.3708,-88.0122,Cosmopolis,WA,46.954,-123.7726,TRUE,Third Lake, IL
+27,McArthur,OH,39.2466,-82.4787,Mentor,MN,47.6966,-96.144,Fairmead,CA,37.0775,-120.1937,TRUE,Mentor, MN
+28,Proberta,CA,40.0762,-122.1776,Croom,MD,38.7458,-76.7555,Sartell,MN,45.6187,-94.2207,TRUE,Croom, MD
+29,Dawson,MN,44.9289,-96.0504,Atglen,PA,39.9473,-75.9754,Penrose,CO,38.4213,-105.0004,TRUE,Atglen, PA
+30,Fiddletown,CA,38.5091,-120.7605,Burton,NE,42.9119,-99.5918,Potsdam,OH,39.9637,-84.4149,TRUE,Burton, NE
+31,Sackets Harbor,NY,43.9418,-76.1182,Homer,MI,42.1461,-84.8103,Royal City,WA,46.9019,-119.6208,TRUE,Homer, MI
+32,Chevy Chase,MD,38.9943,-77.0737,Genesee,CO,39.6873,-105.2719,Forsyth,MO,36.686,-93.1016,TRUE,Genesee, CO
+33,Crayne,KY,37.2763,-88.0839,Woods Landing-Jelm,WY,41.1014,-106.0288,Selma,IN,40.189,-85.2753,TRUE,Woods Landing-Jelm, WY
+34,Milford,OH,39.1699,-84.2811,Pittsville,MD,38.3939,-75.4074,Santa Nella,CA,37.1014,-121.0153,TRUE,Pittsville, MD
+35,Copenhagen,NY,43.8934,-75.6726,Gateway,FL,26.5804,-81.7453,Pumpkin Center,NC,34.786,-77.3642,TRUE,Gateway, FL
+36,Riverside,CT,41.0319,-73.5827,Sidman,PA,40.3235,-78.7523,Tetlin,AK,63.1481,-142.4947,TRUE,Sidman, PA
+37,Seymour,TN,35.8761,-83.7742,Franklin,GA,33.2797,-85.0985,La Honda,CA,37.3182,-122.2651,TRUE,Franklin, GA
+38,Upham,ND,48.5817,-100.7284,La Puente,CA,34.0323,-117.9533,Alcester,SD,43.0231,-96.6279,TRUE,La Puente, CA
+39,Harwich Port,MA,41.6723,-70.0641,Bell Buckle,TN,35.59,-86.353,Herminie,PA,40.2633,-79.7138,TRUE,Bell Buckle, TN
+40,Berry Creek,CA,39.6314,-121.4052,Lindisfarne,MT,47.8043,-114.2122,Windsor,PA,39.9163,-76.5841,TRUE,Lindisfarne, MT
+41,Boca Raton,FL,26.3752,-80.108,Dacoma,OK,36.6596,-98.5635,Livingston,AL,32.5982,-88.1891,TRUE,Dacoma, OK
+42,East Mountain,TX,32.6008,-94.8528,James City,PA,41.618,-78.8443,Lake Lorelei,OH,39.1875,-83.9716,TRUE,James City, PA
+43,Lahoma,OK,36.3878,-98.0898,Orlando,OK,36.1355,-97.3653,Federal Way,WA,47.3091,-122.3358,TRUE,Orlando, OK
+44,Middleville,NY,43.1384,-74.9707,Ihlen,MN,43.9122,-96.3709,Pleasantville,PA,41.5935,-79.5808,TRUE,Ihlen, MN
+45,Verona,OH,39.9018,-84.4959,South Charleston,WV,38.3482,-81.711,Canova,SD,43.8813,-97.504,TRUE,South Charleston, WV
+46,Lynn Haven,FL,30.2337,-85.637,West Hamburg,PA,40.5524,-76.002,Lockwood,MT,45.8199,-108.4072,TRUE,West Hamburg, PA
+47,Allen,MI,41.9584,-84.7673,Belleair Shore,FL,27.9173,-82.8455,Patoka,IN,38.4015,-87.5875,TRUE,Belleair Shore, FL
+48,Moore Station,TX,32.1905,-95.5704,Oakdale,LA,30.8157,-92.6542,La Palma,CA,33.8504,-118.0406,TRUE,Oakdale, LA
+49,Maypearl,TX,32.314,-97.0052,McCormick,SC,33.9129,-82.2876,Buena Park,CA,33.8572,-118.0046,TRUE,McCormick, SC
+50,Soper,OK,34.0322,-95.6963,Maunaloa,HI,21.1334,-157.2123,Pensacola,FL,30.4427,-87.1886,TRUE,Maunaloa, HI
+51,Loris,SC,34.0575,-78.8876,Marion,SD,43.4236,-97.2605,Orangevale,CA,38.6881,-121.2209,TRUE,Marion, SD
+52,Port Washington North,NY,40.8434,-73.7014,Blockton,IA,40.6168,-94.4779,Landisburg,PA,40.343,-77.306,TRUE,Blockton, IA
+53,White Bird,ID,45.7622,-116.3007,Nisswa,MN,46.5003,-94.2977,Reidsville,GA,32.0871,-82.1244,TRUE,Nisswa, MN
+54,Springville,IA,42.0529,-91.4458,Newfolden,MN,48.3568,-96.3298,South Houston,TX,29.6611,-95.2285,TRUE,South Houston, TX
+55,Gordon,GA,32.8866,-83.3349,Donnelly,MN,45.6895,-96.0143,Selden,NY,40.8699,-73.0462,TRUE,Selden, NY
+56,Dos Palos Y,CA,37.0466,-120.6394,Grand Meadow,MN,43.7062,-92.5702,Meadow Lake,NM,34.8024,-106.5701,TRUE,Grand Meadow, MN
+57,McMurray,PA,40.2815,-80.0874,Liberty,IN,39.6349,-84.926,Rock Rapids,IA,43.4273,-96.1662,TRUE,Rock Rapids, IA
+58,Clayhatchee,AL,31.2434,-85.7136,Commack,NY,40.8443,-73.2834,Apollo Beach,FL,27.7618,-82.4002,TRUE,Commack, NY
+59,Rothsay,MN,46.4735,-96.2845,Marianna,PA,40.0128,-80.1121,McClenney Tract,CA,35.822,-118.6478,TRUE,McClenney Tract, CA
+60,Camanche Village,CA,38.2662,-120.9866,Boon,MI,44.288,-85.5975,Crowley Lake,CA,37.5692,-118.7465,TRUE,Crowley Lake, CA
+61,California City,CA,35.1578,-117.8721,Fayette,MS,31.7123,-91.062,Greensburg,PA,40.3113,-79.5444,TRUE,Fayette, MS
+62,Encinal,NM,35.1308,-107.4368,Porter,MN,44.642,-96.1693,Northchase,NC,34.3049,-77.8754,TRUE,Porter, MN
+63,Little River,SC,33.8787,-78.6393,Logan,NM,35.3576,-103.4426,Eldridge,IA,41.639,-90.5809,TRUE,Logan, NM
+64,Hoboken,GA,31.1813,-82.1313,Colma,CA,37.6767,-122.4526,Cottage Grove,TN,36.3781,-88.4789,TRUE,Colma, CA
+65,Chillicothe,OH,39.3393,-82.9937,Edgewood,WA,47.2309,-122.2832,Tuckerman,AR,35.724,-91.2025,TRUE,Edgewood, WA
+66,Mountain,ND,48.6843,-97.8648,Twin Falls,ID,42.5645,-114.4615,Meadow Lakes,AK,61.638,-149.608,TRUE,Twin Falls, ID
+67,Rifton,NY,41.8288,-74.0381,Graham,WA,47.0407,-122.2756,Little Browning,MT,48.6252,-112.3501,TRUE,Graham, WA
+68,Alma,MO,39.0964,-93.5478,Dover Beaches North,NJ,39.9921,-74.0715,Lanare,CA,36.4377,-119.9322,TRUE,Dover Beaches North, NJ
+69,Crittenden,KY,38.7754,-84.6137,Springhill,MT,45.8788,-111.0773,Dawson,MD,39.4789,-78.9462,TRUE,Springhill, MT
+70,Attalla,AL,34.0049,-86.104,Carney,OK,35.8065,-97.0154,Alder,WA,46.7872,-122.2666,TRUE,Carney, OK
+71,Jamestown,CA,37.9574,-120.411,South Valley,NM,35.0092,-106.6819,San Simeon,CA,35.6182,-121.1375,TRUE,South Valley, NM
+72,Rose Valley,PA,39.8948,-75.3852,Potala Pastillo,PR,17.9921,-66.4966,Amboy,IN,40.6017,-85.9271,TRUE,Potala Pastillo, PR
+73,LaFayette,GA,34.7088,-85.2815,Alton,IL,38.9034,-90.1523,Forest City,IA,43.257,-93.6365,TRUE,Alton, IL
+74,Festus,MO,38.2192,-90.4095,Brazil,IN,39.5226,-87.124,Grover Beach,CA,35.1204,-120.6199,TRUE,Brazil, IN
+75,North Corbin,KY,36.9649,-84.0973,Trenton,NE,40.1746,-101.0136,Alcoa,TN,35.8073,-83.9752,TRUE,Trenton, NE
+76,Centerview,MO,38.7461,-93.8442,Aynor,SC,34.0001,-79.2072,Lookeba,OK,35.363,-98.3638,TRUE,Aynor, SC
+77,Kensington,CA,37.9084,-122.2805,Wintersville,OH,40.3791,-80.7095,Parkin,AR,35.2629,-90.553,TRUE,Wintersville, OH
+78,Tioga,ND,48.3947,-102.9431,Centerville,TX,31.258,-95.9797,Uehling,NE,41.7347,-96.5057,TRUE,Centerville, TX
+79,New Albany,MS,34.4909,-89.0201,Avra Valley,AZ,32.4195,-111.3393,Matthews,IN,40.3875,-85.4977,TRUE,Avra Valley, AZ
+80,Bradley,AR,33.0993,-93.6569,Vallejo,CA,38.1133,-122.2358,Manter,KS,37.5243,-101.8839,TRUE,Vallejo, CA
+81,Curwensville,PA,40.9735,-78.5189,Elsmore,KS,37.7941,-95.15,Frostburg,MD,39.6506,-78.9269,TRUE,Elsmore, KS
+82,Saco,ME,43.539,-70.4624,Montrose,WV,39.0671,-79.8144,Greenwood,MO,38.8508,-94.3378,TRUE,Montrose, WV
+83,Clover,SC,35.1125,-81.2203,Cooperstown,PA,41.4998,-79.8736,Gonvick,MN,47.7391,-95.5125,TRUE,Cooperstown, PA
+84,Redkey,IN,40.3483,-85.1539,Mount Pleasant,NC,35.3771,-80.4497,Canadian,TX,35.9096,-100.3838,TRUE,Mount Pleasant, NC
+85,Harrisburg,AR,35.5637,-90.7216,Long Prairie,MN,45.9775,-94.8629,Roberta,GA,32.7196,-84.0104,TRUE,Long Prairie, MN
+86,West Jefferson,NC,36.3943,-81.4896,Fancy Farm,KY,36.8003,-88.7928,Blue Ridge,TX,33.298,-96.3994,TRUE,Fancy Farm, KY
+87,Wallace,KS,38.9127,-101.593,Wakarusa,KS,38.8911,-95.6999,Asbury Park,NJ,40.2226,-74.0119,TRUE,Wakarusa, KS
+88,Happy Valley,NM,32.4235,-104.2903,Cayce,KY,36.5577,-89.0349,Norman,OK,35.2335,-97.3471,TRUE,Cayce, KY
+89,Second Mesa,AZ,35.8222,-110.4884,Cowlington,OK,35.3106,-94.7879,Cullman,AL,34.1777,-86.8407,TRUE,Cowlington, OK
+90,Port Mansfield,TX,26.5623,-97.4365,Brookings,OR,42.0697,-124.3003,Alamo,NM,34.4184,-107.5125,TRUE,Brookings, OR
+91,Windsor,CO,40.4693,-104.9213,Walterboro,SC,32.901,-80.676,Silver City,NV,39.2639,-119.6356,TRUE,Walterboro, SC
+92,Richwood,LA,32.4486,-92.0774,Treasure Island,FL,27.774,-82.7663,New Castle,CO,39.5776,-107.5267,TRUE,Treasure Island, FL
+93,Harrison,OH,39.2582,-84.7868,Montclair,CA,34.0714,-117.698,Laura,OH,39.9952,-84.4083,TRUE,Montclair, CA
+94,El Quiote,TX,26.3845,-98.9084,Newton,AL,31.3423,-85.5893,Emmett,ID,43.8685,-116.489,TRUE,Newton, AL
+95,Mays Chapel,MD,39.4343,-76.6516,Throop,PA,41.4382,-75.5926,Deer Grove,IL,41.6096,-89.6866,TRUE,Throop, PA
+96,Hoisington,KS,38.518,-98.7773,Wyandotte,OK,36.7925,-94.7231,La Feria,TX,26.1544,-97.8255,TRUE,Wyandotte, OK
+97,Owings Mills,MD,39.4115,-76.7913,California Junction,IA,41.5601,-95.9947,Chicago Heights,IL,41.5101,-87.6345,TRUE,California Junction, IA
+98,West Baden Springs,IN,38.5675,-86.612,Ozawkie,KS,39.2354,-95.4659,Pacific,WA,47.261,-122.2507,TRUE,Ozawkie, KS
+99,Florence,KY,38.99,-84.647,Centreville,MI,41.9213,-85.5259,Diamond Beach,NJ,38.9587,-74.852,TRUE,Centreville, MI
+100,Weirton,WV,40.406,-80.5671,Alton,TX,26.2884,-98.3098,Pelham,TN,35.3342,-85.8703,TRUE,Alton, TX
+101,Gilman,IA,41.8788,-92.7881,Skidmore,TX,28.2626,-97.6855,Orange Cove,CA,36.6211,-119.3188,TRUE,Skidmore, TX
+102,Herminie,PA,40.2633,-79.7138,Malvern,OH,40.6894,-81.1804,Jeddito,AZ,35.7697,-110.1305,TRUE,Malvern, OH
+103,Seabeck,WA,47.6437,-122.8219,Parma,MO,36.6117,-89.8189,Naguabo,PR,18.2116,-65.737,TRUE,Parma, MO
+104,Knoxville,IL,40.907,-90.2857,Park Crest,PA,40.8192,-76.0601,Mankato,KS,39.7871,-98.2083,TRUE,Park Crest, PA
+105,Folsom,NM,36.8478,-103.9176,Ladonia,AL,32.4609,-85.0877,Beckett,NJ,39.7565,-75.3564,TRUE,Ladonia, AL
+106,Fair Play,SC,34.5077,-82.9862,Lotsee,OK,36.1334,-96.2091,Hebron,OH,39.9644,-82.4898,TRUE,Lotsee, OK
+107,Sharonville,OH,39.2825,-84.4071,Frisco,NC,35.2331,-75.6289,Poland,OH,41.022,-80.6156,TRUE,Frisco, NC
+108,Frenchtown-Rumbly,MD,38.0831,-75.8521,Alamo Lake,AZ,34.2588,-113.5079,Silver Lake,NJ,40.7804,-74.1829,TRUE,Alamo Lake, AZ
+109,Embden,ND,46.805,-97.4395,Murrayville,IL,39.5818,-90.2517,Bootjack,CA,37.4672,-119.8887,TRUE,Murrayville, IL
+110,Denair,CA,37.5262,-120.7994,White Oak,OK,36.6098,-95.2763,Gifford,FL,27.6747,-80.4102,TRUE,White Oak, OK
+111,Glens Falls,NY,43.3109,-73.6459,Bull Run Mountain Estates,VA,38.9107,-77.6638,Cisco,IL,40.0116,-88.7255,TRUE,Bull Run Mountain Estates, VA
+112,Utica,NY,43.0961,-75.226,Kyle,TX,29.9937,-97.8859,Champaign,IL,40.1144,-88.2735,TRUE,Kyle, TX
+113,Spillville,IA,43.2031,-91.9523,Lake Koshkonong,WI,42.8838,-88.9424,North Las Vegas,NV,36.288,-115.0901,TRUE,Lake Koshkonong, WI
+114,Westside,IA,42.0757,-95.1013,Norcatur,KS,39.8347,-100.1888,Deltana,AK,63.8724,-145.2158,TRUE,Norcatur, KS
+115,Blossom,TX,33.6633,-95.3837,Moss Bluff,LA,30.3039,-93.2051,Ames Lake,WA,47.6346,-121.9664,TRUE,Moss Bluff, LA
+116,Phillipstown,IL,38.1429,-88.0181,Rockville,IN,39.7665,-87.2295,South Duxbury,MA,42.0203,-70.6913,TRUE,Rockville, IN
+117,Pajaro,CA,36.9016,-121.7417,North Eagle Butte,SD,45.0169,-101.2365,Amelia,LA,29.6645,-91.1072,TRUE,North Eagle Butte, SD
+118,Morning Sun,IA,41.0942,-91.2506,Weiser,ID,44.2547,-116.9689,Brownsboro,TX,32.2985,-95.613,TRUE,Weiser, ID
+119,McSwain,CA,37.3146,-120.5867,Bardwell,TX,32.2671,-96.6954,Mount Hermon,NJ,40.9269,-74.993,TRUE,Bardwell, TX
+120,Bell Acres,PA,40.5898,-80.1738,Grove City,OH,39.8659,-83.0694,Poston,AZ,33.9921,-114.4046,TRUE,Grove City, OH
+121,Hopland,CA,38.9691,-123.1173,Carbondale,IL,37.7221,-89.2238,Kake,AK,56.9727,-133.9145,TRUE,Carbondale, IL
+122,Arnolds Park,IA,43.3601,-95.1265,Long Branch,PA,40.0984,-79.8801,Oakdale,NY,40.7373,-73.1345,TRUE,Long Branch, PA
+123,South Pasadena,CA,34.1103,-118.1573,East Highland Park,VA,37.577,-77.3865,Argyle,MN,48.3366,-96.8162,TRUE,East Highland Park, VA
+124,Wellington,IL,40.5411,-87.6799,West Point,IL,40.2555,-91.1836,Ruston,WA,47.2981,-122.5105,TRUE,West Point, IL
+125,Knapp,WI,44.9514,-92.0769,Lovejoy,GA,33.4426,-84.3176,Los Molinos,CA,40.027,-122.0981,TRUE,Lovejoy, GA
+126,Thonotosassa,FL,28.0465,-82.291,Holley,OR,44.349,-122.7855,Sikeston,MO,36.8865,-89.587,TRUE,Holley, OR
+127,Pine Apple,AL,31.8721,-86.9891,Huntsville,UT,41.2602,-111.7741,Hagaman,NY,42.9728,-74.1545,TRUE,Huntsville, UT
+128,Eagle Lake,MN,44.1616,-93.8846,Loudonville,OH,40.6342,-82.2328,Badger,IA,42.6142,-94.1446,TRUE,Loudonville, OH
+129,Norman,NC,35.1698,-79.7231,Leesburg,IN,41.3307,-85.8489,Kellerton,IA,40.7103,-94.0503,TRUE,Leesburg, IN
+130,Loyola,CA,37.3502,-122.098,Elysburg,PA,40.868,-76.5492,Long Grove,IL,42.1968,-88.0057,TRUE,Elysburg, PA
+131,Latimer,IA,42.7629,-93.3655,Lanesboro,PA,41.9625,-75.5825,Pearl City,IL,42.2668,-89.8271,TRUE,Lanesboro, PA
+132,Greeneville,TN,36.168,-82.8197,Smyrna,TN,35.9722,-86.5253,Anton,TX,33.8113,-102.1622,TRUE,Smyrna, TN
+133,Glen Lyn,VA,37.3727,-80.858,Piedmont,MO,37.1492,-90.6969,Powhatan Point,OH,39.8625,-80.8098,TRUE,Piedmont, MO
+134,Kline,SC,33.1252,-81.3426,Stark City,MO,36.8626,-94.1864,Lakota,ND,48.0429,-98.3468,TRUE,Stark City, MO
+135,Hinesville,GA,31.8247,-81.6135,Topton,PA,40.5032,-75.7024,Roseville,CA,38.7703,-121.3196,TRUE,Topton, PA
+136,Bay City,MI,43.5903,-83.8886,Carlton,MT,46.6796,-114.0718,Solomons,MD,38.3373,-76.4611,TRUE,Carlton, MT
+137,Porcupine,ND,46.2218,-101.0999,Palermo,CA,39.4313,-121.5225,High Hill,MO,38.8753,-91.3776,TRUE,Palermo, CA
+138,Drysdale,AZ,32.6452,-114.7067,Golf Manor,OH,39.1878,-84.4469,Cheyney University,PA,39.9343,-75.5306,TRUE,Golf Manor, OH
+139,Palmyra,NJ,40.0025,-75.036,Grand Marsh,WI,43.8852,-89.7072,Eden,ID,42.6053,-114.209,TRUE,Grand Marsh, WI
+140,Abilene,KS,38.9229,-97.2251,Pawnee Rock,KS,38.2649,-98.9823,Longoria,TX,26.3024,-98.6425,TRUE,Pawnee Rock, KS
+141,Sea Bright,NJ,40.3653,-73.9769,Rio Bravo,TX,27.3648,-99.482,University Heights,IA,41.6551,-91.5589,TRUE,Rio Bravo, TX
+142,Sargent,NE,41.6399,-99.3688,Breesport,NY,42.1816,-76.7358,West Lake Hills,TX,30.292,-97.8083,TRUE,Breesport, NY
+143,Woodsburgh,NY,40.6215,-73.7068,Union City,GA,33.5941,-84.5629,Forest Hill,TX,32.6619,-97.2662,TRUE,Union City, GA
+144,Campo Rico,PR,18.3371,-65.8974,McNab,AR,33.6609,-93.8323,Loíza,PR,18.431,-65.88,TRUE,McNab, AR
+145,Sackets Harbor,NY,43.9418,-76.1182,Orient,IA,41.2033,-94.4178,West Winfield,NY,42.8838,-75.1914,TRUE,Orient, IA
+146,Cedar Bluffs,NE,41.3971,-96.6098,Homedale,ID,43.6154,-116.9379,Turner,MI,44.1422,-83.7875,TRUE,Homedale, ID
+147,West Liberty,WV,40.1647,-80.5972,Bethlehem Village,CT,41.6401,-73.2031,Rices Landing,PA,39.9476,-79.9986,TRUE,Bethlehem Village, CT
+148,Embarrass,WI,44.6685,-88.7037,Pepper Pike,OH,41.4801,-81.4619,Byron,WY,44.7964,-108.5081,TRUE,Pepper Pike, OH
+149,Elk City,ID,45.8266,-115.4378,Marrowstone,WA,48.0568,-122.6933,Meadow Oaks,FL,28.3465,-82.6025,TRUE,Marrowstone, WA
+150,Pittston,PA,41.3274,-75.7885,Scottdale,PA,40.1034,-79.5899,Viborg,SD,43.1715,-97.0798,TRUE,Scottdale, PA
+151,Crete,NE,40.6254,-96.9575,Monticello,GA,33.2955,-83.686,Leedey,OK,35.8688,-99.3451,TRUE,Monticello, GA
+152,Tallassee,AL,32.5314,-85.8902,Stone Creek,OH,40.3997,-81.558,Ponce de Leon,FL,30.7234,-85.9374,TRUE,Stone Creek, OH
+153,Riceboro,GA,31.7264,-81.4438,Hobe Sound,FL,27.0729,-80.1425,Princeton,NJ,40.3563,-74.6693,TRUE,Hobe Sound, FL
+154,Hungerford,TX,29.404,-96.0837,Gillette,WY,44.2752,-105.4983,Braselton,GA,34.1088,-83.8128,TRUE,Gillette, WY
+155,Meadowdale,WA,47.8583,-122.3159,Río Cañas Abajo,PR,18.0391,-66.4679,Hokah,MN,43.7599,-91.35,TRUE,Río Cañas Abajo, PR
+156,Turner,MI,44.1422,-83.7875,St. Donatus,IA,42.3624,-90.5422,Palo Pinto,TX,32.7692,-98.3007,TRUE,St. Donatus, IA
+157,Apache,OK,34.8938,-98.3581,Harcourt,IA,42.2606,-94.1745,Amanda,OH,39.6501,-82.7422,TRUE,Harcourt, IA
+158,The Meadows,FL,27.3653,-82.4724,Marmarth,ND,46.296,-103.9331,Winchester,OH,38.9436,-83.654,TRUE,Marmarth, ND
+159,New Brighton,MN,45.0658,-93.206,Goodyears Bar,CA,39.5458,-120.8881,Waverly,TN,36.0939,-87.7846,TRUE,Goodyears Bar, CA
