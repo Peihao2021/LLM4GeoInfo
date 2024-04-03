@@ -11,7 +11,7 @@ def string_to_array(s):
     s = s.strip("[]")
     return np.fromstring(s, sep=' ')
 
-df = pd.read_csv('city_bert_embeddings.csv')
+df = pd.read_csv('task1_embeddings.csv')
 print(type(df.loc[0,'embed1']))
 df['embed1'] = df['embed1'].apply(string_to_array)
 df['embed2'] = df['embed2'].apply(string_to_array)

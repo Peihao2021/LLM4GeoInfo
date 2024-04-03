@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 
-
 # Convert embeddings from string to numpy.ndarray type
 def string_to_array(s):
     s = s.strip("[]")
@@ -16,6 +15,7 @@ print(type(df.loc[0,'City1']))
 df['City1'] = df['City1'].apply(string_to_array)
 df['City2'] = df['City2'].apply(string_to_array)
 df['City3'] = df['City3'].apply(string_to_array)
+
 # Create a features array with embeddings only
 X = np.array([np.concatenate([row['City1'], row['City2'], row['City3']]) for index, row in df.iterrows()])
 y = df['y'].values

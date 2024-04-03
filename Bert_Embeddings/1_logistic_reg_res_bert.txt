@@ -1,0 +1,12 @@
+<class 'str'>
+<class 'numpy.ndarray'>
+Accuracy: 0.56
+              precision    recall  f1-score   support
+
+           0       0.57      0.55      0.56       102
+           1       0.55      0.57      0.56        98
+
+    accuracy                           0.56       200
+   macro avg       0.56      0.56      0.56       200
+weighted avg       0.56      0.56      0.56       200
+
