@@ -1,0 +1,10 @@
+10,000 data points: First task: obtain uscities.csv file and generate two datasets:
+dataset 1: just 10,000 datapoints sorted most population to least population
+dataset 2: 10,000 triplets with c1 to c2 and c2 to c3 > 200km
+
+Task1: Predict latitude (lasso, ridge, nn)
+Task2: Predict longitude (lasso, ridge, nn)
+Task3: predict population (lasso, ridge, nn)
+Task4: predict distance from New York (lasso, ridge, nn)
+Task5: utilize dataset2: closest city task (What we did this week)
+
