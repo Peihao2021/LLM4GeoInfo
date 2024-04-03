@@ -1,0 +1,11 @@
+<class 'str'>
+Accuracy: 0.695
+              precision    recall  f1-score   support
+
+           0       0.34      0.29      0.31        48
+           1       0.79      0.82      0.80       152
+
+    accuracy                           0.69       200
+   macro avg       0.56      0.56      0.56       200
+weighted avg       0.68      0.69      0.69       200
+
